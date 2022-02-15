@@ -584,6 +584,7 @@ body {
   opacity: 1;
   transition: transform var(--duration) var(--timing-function),
     opacity var(--duration) var(--timing-function);
+  padding: 40px;
 }
 
 .modal-button {
@@ -610,7 +611,6 @@ body {
 }
 /* form */
 .form {
-  padding: 40px;
 }
 
 .form-text {
